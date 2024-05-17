@@ -3,7 +3,6 @@ import React from "react";
 
 interface SectionCardProps {
     title: string;
-    icon: React.ElementType;
     iconFontName: string;
     children: React.ReactNode;
 }

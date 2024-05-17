@@ -20,7 +20,7 @@ function Datenschutz() {
                 className="container mx-auto grid h-full gap-10 min-h-[60vh] w-full grid-cols-1 items-start lg:grid-cols-2">
                 <Typography variant="h2">1. Datenschutz auf einen Blick</Typography>
                 <Typography variant="h3">Allgemeine Hinweise</Typography>
-                <Typography variant="body1">
+                <Typography variant="paragraph">
                     Die folgenden Hinweise geben einen einfachen &Uuml;berblick dar&uuml;ber, was mit Ihren
                     personenbezogenen
                     Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen

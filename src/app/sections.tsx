@@ -11,14 +11,12 @@ const SECTIONS = [
     {
         iconFontName: "fa-futbol",
         title: "Fußball",
-        children:
-            "",
+        children: "",
     },
     {
         iconFontName: "fa-person-rifle",
         title: "Schützen",
-        children:
-            "",
+        children: "",
     },
     {
         iconFontName: "fa-bullseye",
@@ -29,8 +27,7 @@ const SECTIONS = [
     {
         iconFontName: "fa-car-side",
         title: "Seifenkiste",
-        children:
-            "",
+        children: "",
     }
 ];
 
