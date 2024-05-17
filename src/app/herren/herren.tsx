@@ -3,7 +3,7 @@
 import React from "react";
 import {Typography} from "@material-tailwind/react";
 import {Trainingszeiten} from "@/app/herren/trainingszeiten";
-import {PersonCard, ProfileCard} from "@/components";
+import {ProfileCard} from "@/components";
 
 const TRAINER = [
     {
@@ -11,21 +11,35 @@ const TRAINER = [
         name: "Jonas Scheuenstuhl",
         section: "Trainer 1. Herrenmannschaft",
         mail: "scheu.j@hotmail.de",
-        phone: "+49 151 18054220",
+        phone: "+49 (0) 151 18054220",
+    },
+    {
+        img: "/teams/herren-2022.jpeg",
+        name: "Niklas Stahringer",
+        section: "Spielleiter 1. Herrenmannschaft",
+        mail: "",
+        phone: "+49 (0) 178 2873224",
     },
     {
         img: "/teams/herren-2022.jpeg",
         name: "Marco Weber",
         section: "Trainer 2. Herrenmannschaft",
         mail: "",
-        phone: "+49 151 18054220",
+        phone: "+49 (0) 151 18054220",
     },
     {
         img: "/teams/herren-2022.jpeg",
-        name: "Niklas Stahringer",
-        section: "Spielleiter Herren",
+        name: "Henric Raab",
+        section: "Co-Trainer 2. Herrenmannschaft",
         mail: "",
-        phone: "0178 2873224",
+        phone: "+49 (0) 174 9175951",
+    },
+    {
+        img: "/teams/herren-2022.jpeg",
+        name: "Christian König",
+        section: "Spielleiter 2. Herrenmannschaft",
+        mail: "",
+        phone: "+49 (0) 178 2873224",
     },
     {
         img: "/teams/herren-2022.jpeg",
