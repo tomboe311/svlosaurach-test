@@ -17,8 +17,10 @@ function Jugend() {
                     Jugendmannschaften
                 </Typography>
             </div>
-            <div
-                className="container mx-auto grid h-full gap-10 min-h-[60vh] w-full grid-cols-1 items-start lg:grid-cols-2">
+            <div className="container mx-auto h-full gap-10 w-full items-start">
+                <Typography variant="h2" color="blue-gray" className="mb-4 uppercase">
+                    Trainingszeiten
+                </Typography>
                 <Trainingszeiten/>
             </div>
         </header>
