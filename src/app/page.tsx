@@ -1,29 +1,26 @@
 // components
-import { Navbar, Footer } from "@/components";
+import {Navbar, Footer} from "@/components";
 
 // sections
 import Hero from "./hero";
-import Clients from "./clients";
-import Skills from "./skills";
-import Projects from "./projects";
-import Resume from "./resume";
-import Testimonial from "./testimonial";
-import PopularClients from "./popular-clients";
-import ContactForm from "./contact-form";
+import Sponsors from "./sponsors";
+import Sections from "./sections";
+import Teams from "./teams";
+import Verein from "@/app/verein";
+import Address from "@/app/address";
 
-export default function Portfolio() {
-  return (
-    <>
-      <Navbar />
-      <Hero />
-      <Clients />
-      <Skills />
-      <Projects />
-      <Resume />
-      <Testimonial />
-      <PopularClients />
-      <ContactForm />
-      <Footer />
-    </>
-  );
+export default function Home() {
+    return (
+        <>
+            <Navbar/>
+            <Hero/>
+            <Verein/>
+            <Teams/>
+            <Sponsors/>
+            <Sections/>
+            <Address/>
+            <Footer/>
+        </>
+    );
 }
+
