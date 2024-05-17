@@ -35,7 +35,7 @@ export function ProfileCard({img, name, section, mail, phone}: ProfileCardProps)
                         as="a"
                         href={`mailto:${mail}`}
                         variant="lead"
-                        color="blue"
+                        color="yellow"
                         textGradient
                     >
                         <i className="fas fa-envelope" aria-hidden="true"/>
@@ -46,7 +46,7 @@ export function ProfileCard({img, name, section, mail, phone}: ProfileCardProps)
                         as="a"
                         href={`tel:${phone}`}
                         variant="lead"
-                        color="light-blue"
+                        color="yellow"
                         textGradient
                     >
                         <i className="fas fa-phone" aria-hidden="true"/>
