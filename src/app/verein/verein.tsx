@@ -199,8 +199,14 @@ function Verein() {
                     <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
                         Der SVL bietet Fußball für alle Altersklassen. Von den Bambinis bis zu den Senioren.
                     </Typography>
-                    <div>
-                        Abteilungsleiter: Card (TODO)
+                    <Typography variant="h5" color="blue-gray" className="mb-4 uppercase">
+                        Abteilungsleiter
+                    </Typography>
+                    <div
+                        className="container mx-auto grid h-full gap-10 w-full grid-cols-1 items-start 2xl:grid-cols-3 lg:grid-cols-2 mb-20">
+                        {VORSTANDSCHAFT.filter(props => props.section === "Abteilungsleiter Fußball" || props.section === "Jugendleiter").map((props, idx) => (
+                            <ProfileCard key={idx} {...props} />
+                        ))}
                     </div>
                     <Typography variant="h3" color="blue-gray" className="mb-4 uppercase">
                         Schützen
@@ -208,8 +214,14 @@ function Verein() {
                     <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
                         Die Schützenabteilung des SVL ist eine der ältesten Abteilungen des Vereins.
                     </Typography>
-                    <div>
-                        Abteilungsleiter: Card (TODO)
+                    <Typography variant="h5" color="blue-gray" className="mb-4 uppercase">
+                        Schützenmeister
+                    </Typography>
+                    <div
+                        className="container mx-auto grid h-full gap-10 w-full grid-cols-1 items-start 2xl:grid-cols-3 lg:grid-cols-2 mb-20">
+                        {VORSTANDSCHAFT.filter(props => props.section === "Schützenmeister").map((props, idx) => (
+                            <ProfileCard key={idx} {...props} />
+                        ))}
                     </div>
                     <Typography variant="h3" color="blue-gray" className="mb-4 uppercase">
                         Dart
@@ -217,8 +229,14 @@ function Verein() {
                     <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
                         Die Dartabteilung des SVL ist eine der jüngsten Abteilungen des Vereins.
                     </Typography>
-                    <div>
-                        Abteilungsleiter: Card (TODO)
+                    <Typography variant="h5" color="blue-gray" className="mb-4 uppercase">
+                        Abteilungsleiter
+                    </Typography>
+                    <div
+                        className="container mx-auto grid h-full gap-10 w-full grid-cols-1 items-start 2xl:grid-cols-3 lg:grid-cols-2 mb-20">
+                        {VORSTANDSCHAFT.filter(props => props.section === "Abteilungsleiter Dart").map((props, idx) => (
+                            <ProfileCard key={idx} {...props} />
+                        ))}
                     </div>
                     <Typography variant="h3" color="blue-gray" className="mb-4 uppercase">
                         Seifenkisten
@@ -226,8 +244,14 @@ function Verein() {
                     <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
                         Die Seifenkistenabteilung des SVL ist eine der neuesten Abteilungen des Vereins.
                     </Typography>
-                    <div>
-                        Abteilungsleiter: Card (TODO)
+                    <Typography variant="h5" color="blue-gray" className="mb-4 uppercase">
+                        Abteilungsleiter
+                    </Typography>
+                    <div
+                        className="container mx-auto grid h-full gap-10 w-full grid-cols-1 items-start 2xl:grid-cols-3 lg:grid-cols-2 mb-20">
+                        {VORSTANDSCHAFT.filter(props => props.section === "Abteilungsleiter Seifenkiste").map((props, idx) => (
+                            <ProfileCard key={idx} {...props} />
+                        ))}
                     </div>
                 </div>
             </div>
