@@ -72,14 +72,14 @@ function Foerderverein() {
                     color="blue-gray"
                     className="mb-4 lg:text-5xl !leading-tight text-3xl"
                 >
-                    Förderverein "Oberer Aurachgrund"
+                    Förderverein Oberer Aurachgrund
                 </Typography>
                 <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                    Der Förderverein "Oberer Aurachgrund" wurde am 19. April 1996 von der damaligen Vorstandschaft des SV Losaurach und Umg. e.V. gegründet.
+                    Der Förderverein Oberer Aurachgrund wurde am 19. April 1996 von der damaligen Vorstandschaft des SV Losaurach und Umg. e.V. gegründet.
 
                     Die Aufgabe des Fördervereins ist die Durchführung diverser  Veranstaltungen, sowie die Verwaltung der Bandenwerbung am A-Platz, was dem Erhalt der Sportanlage und dem Spielbetrieb der Mannschaften des SV Losaurach und Umg. e.V. zur Unterstützung dienen soll.
 
-                    Aktuell sind 59 Mitglieder im Förderverein "Oberer Aurachgrund", bei denen wir uns für Ihre Unterstützung recht herzlich bedanken möchten.
+                    Aktuell sind 59 Mitglieder im Förderverein Oberer Aurachgrund, bei denen wir uns für Ihre Unterstützung recht herzlich bedanken möchten.
                 </Typography>
                 <Typography variant="h2" color="blue-gray" className="mb-4 uppercase">
                     Mitglied werden
@@ -89,7 +89,7 @@ function Foerderverein() {
 
                     Der momentane Jahresbeitrag beträgt: 30,00 €
                 </Typography>
-                <Button color="yellow" ripple="light" className="mb-4">
+                <Button color="yellow" className="mb-4">
                     Mitgliedsantrag
                 </Button>
             </div>
