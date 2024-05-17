@@ -24,9 +24,9 @@ const TEAMS = [
     },
     {
         img: "/teams/herren-2022.jpeg",
-        title: "Dream Team",
-        desc: "Unser Dream Team.",
-        link: "/dream-team",
+        title: "Alte Herren",
+        desc: "Unsere Alten Herren",
+        link: "/alte-herren",
     },
 ];
 
