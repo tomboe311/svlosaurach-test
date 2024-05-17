@@ -17,8 +17,8 @@ const TRAINER = [
         img: "/teams/herren-2022.jpeg",
         name: "Heiko Gräbner",
         section: "Trainer 2. Damenmannschaft",
-        mail: "",
-        phone: "",
+        mail: "heiko.graebner@sparkasse-nea.de\t",
+        phone: "+49 (0) 172 8621772",
     },
     {
         img: "/teams/herren-2022.jpeg",
