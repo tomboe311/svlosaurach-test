@@ -2,30 +2,30 @@
 
 import React from "react";
 import {Typography} from "@material-tailwind/react";
-import {Trainingszeiten} from "@/app/herren/trainingszeiten";
+import {Trainingszeiten} from "@/app/alte-herren/trainingszeiten";
 import {PersonCard, ProfileCard} from "@/components";
 
 const TRAINER = [
     {
-        img: "/teams/herren-2022.jpeg",
-        name: "XXX",
-        section: "Trainer 1. Damenmannschaft",
-        mail: "",
-        phone: "",
-    },
-    {
-        img: "/teams/herren-2022.jpeg",
+        img: "/teams/damen-2022-2023.jpeg",
         name: "Heiko Gräbner",
-        section: "Trainer 2. Damenmannschaft",
-        mail: "heiko.graebner@sparkasse-nea.de\t",
+        section: "Trainer 1. Damenmannschaft",
+        mail: "heiko.graebner@sparkasse-nea.de",
         phone: "+49 (0) 172 8621772",
     },
     {
-        img: "/teams/herren-2022.jpeg",
-        name: "XXX",
+        img: "/teams/damen-2022-2023.jpeg",
+        name: "Franziska Clemens",
+        section: "Trainer 2. Damenmannschaft",
+        mail: "",
+        phone: "+49 (0) 1525 6158385",
+    },
+    {
+        img: "/teams/damen-2022-2023.jpeg",
+        name: "Susi Strohmaier",
         section: "Spielleiter Damen",
         mail: "",
-        phone: "",
+        phone: "+49 (0) 170 7688000",
     },
 ]
 
