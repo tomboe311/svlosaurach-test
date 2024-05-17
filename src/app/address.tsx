@@ -4,13 +4,8 @@ import {
     Typography,
     Card,
     CardBody,
-    Radio,
-    Input,
-    Textarea,
-    Button,
-    IconButton,
 } from "@material-tailwind/react";
-import {EnvelopeIcon, MapIcon, MapPinIcon, PhoneIcon} from "@heroicons/react/24/solid";
+import {EnvelopeIcon, MapPinIcon, PhoneIcon} from "@heroicons/react/24/solid";
 import React from "react";
 
 export function Address() {
@@ -30,7 +25,7 @@ export function Address() {
             <div>
                 <Card shadow={true} className="container mx-auto border border-gray/50">
                     <CardBody className="grid grid-cols-1 lg:grid-cols-7 md:gap-10">
-                        <div className="w-full col-span-3 rounded-lg h-full py-8 p-5 md:p-16 bg-gray-900">
+                        <div className="w-full col-span-3 rounded-lg py-8 p-5 md:p-16 bg-gray-900">
                             <Typography variant="h4" color="white" className="mb-2">
                                 Adressinformationen
                             </Typography>
@@ -59,7 +54,7 @@ export function Address() {
                                 </Typography>
                             </div>
                         </div>
-                        <div className="w-full mt-8 md:mt-0 md:px-10 col-span-4 h-full p-5">
+                        <div className="w-full mt-8 md:mt-0 md:px-10 col-span-4 p-5">
                             <iframe
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2589.4310021611027!2d10.6226850777469!3d49.533016971431344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a2095a9a702191%3A0xf8a5d27df2fff7cf!2sSportheim%20Losaurach!5e0!3m2!1sde!2sde!4v1714819490613!5m2!1sde!2sde"
                                 width="100%"
