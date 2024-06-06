@@ -104,49 +104,6 @@ function Foerderverein() {
                     ))}
                 </div>
             </div>
-            <div className="container mx-auto">
-                <Typography variant="h2" color="blue-gray" className="mb-4 uppercase">
-                    Abteilungen
-                </Typography>
-                <div>
-                    <Typography variant="h3" color="blue-gray" className="mb-4 uppercase">
-                        Fußball
-                    </Typography>
-                    <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                        Der SVL bietet Fußball für alle Altersklassen. Von den Bambinis bis zu den Senioren.
-                    </Typography>
-                    <div>
-                        Abteilungsleiter: Card (TODO)
-                    </div>
-                    <Typography variant="h3" color="blue-gray" className="mb-4 uppercase">
-                        Schützen
-                    </Typography>
-                    <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                        Die Schützenabteilung des SVL ist eine der ältesten Abteilungen des Vereins.
-                    </Typography>
-                    <div>
-                        Abteilungsleiter: Card (TODO)
-                    </div>
-                    <Typography variant="h3" color="blue-gray" className="mb-4 uppercase">
-                        Dart
-                    </Typography>
-                    <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                        Die Dartabteilung des SVL ist eine der jüngsten Abteilungen des Vereins.
-                    </Typography>
-                    <div>
-                        Abteilungsleiter: Card (TODO)
-                    </div>
-                    <Typography variant="h3" color="blue-gray" className="mb-4 uppercase">
-                        Seifenkisten
-                    </Typography>
-                    <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                        Die Seifenkistenabteilung des SVL ist eine der neuesten Abteilungen des Vereins.
-                    </Typography>
-                    <div>
-                        Abteilungsleiter: Card (TODO)
-                    </div>
-                </div>
-            </div>
         </header>
     );
 }
