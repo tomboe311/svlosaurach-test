@@ -2,7 +2,7 @@
 
 import React from "react";
 import {Typography} from "@material-tailwind/react";
-import {Trainingszeiten} from "@/app/alte-herren/trainingszeiten";
+import {Trainingszeiten} from "@/app/damen/trainingszeiten";
 import {PersonCard, ProfileCard} from "@/components";
 
 const TRAINER = [
