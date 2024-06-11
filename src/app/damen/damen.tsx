@@ -7,21 +7,21 @@ import {PersonCard, ProfileCard} from "@/components";
 
 const TRAINER = [
     {
-        img: "/teams/damen-2022-2023.jpeg",
+        img: "/teams/damen-2023-2024.jpeg",
         name: "Heiko Gräbner",
         section: "Trainer 1. Damenmannschaft",
         mail: "heiko.graebner@sparkasse-nea.de",
         phone: "+49 (0) 172 8621772",
     },
     {
-        img: "/teams/damen-2022-2023.jpeg",
+        img: "/teams/damen-2023-2024.jpeg",
         name: "Franziska Clemens",
         section: "Trainer 2. Damenmannschaft",
         mail: "",
         phone: "+49 (0) 1525 6158385",
     },
     {
-        img: "/teams/damen-2022-2023.jpeg",
+        img: "/teams/damen-2023-2024.jpeg",
         name: "Susi Strohmaier",
         section: "Spielleiter Damen",
         mail: "",
