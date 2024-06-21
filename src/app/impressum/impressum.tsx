@@ -68,16 +68,13 @@ function Impressum() {
                         Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
                         Verbraucherschlichtungsstelle teilzunehmen.
                     </Typography>
-                    <p></p>
-                    <div>
-                        <Typography variant="h3" color="blue-gray" className="mb-2">
-                            Gestaltung und Realisierung
-                        </Typography>
-                        <Typography variant="paragraph" className="mb-4">
-                            BOEHRINGER IT - Thomas Böhringer<br/>
-                            <a href="https://www.boehringer-it.de">www.boehringer-it.de</a>
-                        </Typography>
-                    </div>
+                    <Typography variant="h3" color="blue-gray" className="mb-2">
+                        Gestaltung und Realisierung
+                    </Typography>
+                    <Typography variant="paragraph" className="mb-4">
+                        BOEHRINGER IT - Thomas Böhringer<br/>
+                        <a href="https://www.boehringer-it.de">www.boehringer-it.de</a>
+                    </Typography>
                 </div>
                 <div>
                     <Typography variant="h2" className="mb-2">Haftungsausschuss</Typography>
