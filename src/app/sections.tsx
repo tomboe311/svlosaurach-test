@@ -51,7 +51,7 @@ export function Sections() {
                     Aktivitäten und lebendiger Gemeinschaft. Willkommen bei uns, wo Abwechslung und Begeisterung zuhause
                     sind! </Typography>
             </div>
-            <div className="container mx-auto grid grid-cols-1 gap-y-10 md:grid-cols-2 lg:grid-cols-4">
+            <div className="container mx-auto grid grid-cols-2 gap-y-10 lg:grid-cols-4">
                 {SECTIONS.map((props, idx) => (
                     <SectionCard key={idx} {...props} />
                 ))}
