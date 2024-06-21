@@ -1,33 +1,24 @@
 "use client";
 
 import {Typography} from "@material-tailwind/react";
-import {
-    HeartIcon,
-} from "@heroicons/react/24/solid";
-
 import {SectionCard} from "@/components";
 
 const SECTIONS = [
     {
         iconFontName: "fa-futbol",
         title: "Fußball",
-        children: "",
     },
     {
         iconFontName: "fa-person-rifle",
         title: "Schützen",
-        children: "",
     },
     {
         iconFontName: "fa-bullseye",
         title: "Dart",
-        children:
-            "",
     },
     {
         iconFontName: "fa-car-side",
         title: "Seifenkiste",
-        children: "",
     }
 ];
 
@@ -53,7 +44,7 @@ export function Sections() {
             </div>
             <div className="container mx-auto grid grid-cols-2 gap-y-10 lg:grid-cols-4">
                 {SECTIONS.map((props, idx) => (
-                    <SectionCard key={idx} {...props} />
+                    <SectionCard key={idx} {...props}/>
                 ))}
             </div>
         </section>
