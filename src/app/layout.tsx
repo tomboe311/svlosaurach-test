@@ -17,9 +17,8 @@ const sourceSans3 = Source_Sans_3({
 });
 
 export const metadata: Metadata = {
-    title: "SV Losaurach e. V. - Sportverein Losaurach e. V. | Schützenbund Losaurach u. Umgebung e. V.",
-    description:
-        "Der SV Losaurach e. V. ist ein Fußballverein in Losaurach. Wir bieten Fußball für alle Altersklassen an. Besuchen Sie uns!",
+    title: "SV Losaurach und Umgebung e. V. | Fußball, Schützen, Darts, Seifenkiste",
+    description: "Ihr Sportverein in Losaurach: SV Losaurach e. V. – Fußball, Schützensport, Darts, Seifenkiste. Jetzt Mitglied werden und sportliche Vielfalt erleben!",
 };
 
 export default function RootLayout({
