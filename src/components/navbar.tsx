@@ -33,6 +33,10 @@ const NAV_MENU = [
         href: "/schuetzen",
     },
     {
+        name: "Seifenkiste",
+        href: "/seifenkiste",
+    },
+    {
         name: "Darts",
         href: "/darts",
     },
