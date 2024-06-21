@@ -30,7 +30,16 @@ function Impressum() {
                     </Typography>
                     <Typography variant="paragraph" className="mb-4">
                         Sportverein Losaurach e. V.<br/>
-                        Losaurach<br/>
+                        Losaurach 120<br/>
+                        91459 Markt Erlbach<br/>
+                        Vertreten durch: Vorstandschaft
+                    </Typography>
+                    <Typography variant="h4" color="blue-gray" className="mb-2">
+                        Postanschrift
+                    </Typography>
+                    <Typography variant="paragraph" className="mb-4">
+                        Sportverein Losaurach e. V.<br/>
+                        Losaurach 9<br/>
                         91459 Markt Erlbach<br/>
                         Vertreten durch: Vorstandschaft
                     </Typography>
@@ -39,10 +48,10 @@ function Impressum() {
                     </Typography>
                     <Typography variant="paragraph" className="mb-4">
                         Telefon:
-                        <a href="tel:+4915162982968">+49 (0) 1516 2982968</a>
+                        <a href="tel:091611267">09161 1267 (Sportheim)</a>
                         <br/>
                         E-Mail:
-                        <a href="mailto:info@boehringer-it.de">info@boehringer-it.de</a>
+                        <a href="mailto:info@sv-losaurach.de">info@sv-losaurach.de</a>
                     </Typography>
 
                     <Typography variant="h3" color="blue-gray" className="mb-2">
