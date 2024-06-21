@@ -13,7 +13,7 @@ export function Footer() {
                     <Typography className="text-center font-normal !text-gray-700">
                         &copy; {CURRENT_YEAR} {" "}
                         <a href="https://www.sv-losaurach.de" target="_blank">
-                            SV Losarauch e. V. | Schützenbund Losaurach u. Umgebung e. V.
+                            SV Losaurach und Umgebung e. V.
                         </a>{" "}
                         &minus;{" "}unterstützt von{" "}
                         <a href="https://www.boehringer-it.de" target="_blank">
