@@ -14,7 +14,7 @@ function Hero() {
                         color="blue-gray"
                         className="mb-4 lg:text-5xl !leading-tight text-3xl"
                     >
-                        SV Losaurach e. V.
+                        SV Losaurach
                     </Typography>
                     <Typography
                         variant="lead"
