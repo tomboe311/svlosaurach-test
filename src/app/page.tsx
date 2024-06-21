@@ -1,5 +1,5 @@
 // components
-import {Navbar, Footer} from "@/components";
+import {Footer, NavbarWithMegaMenu} from "@/components";
 
 // sections
 import Hero from "./hero";
@@ -12,7 +12,7 @@ import Address from "@/app/address";
 export default function Home() {
     return (
         <>
-            <Navbar/>
+            <NavbarWithMegaMenu/>
             <Hero/>
             <Verein/>
             <Teams/>

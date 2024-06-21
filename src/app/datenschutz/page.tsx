@@ -1,5 +1,5 @@
 // components
-import {Navbar, Footer} from "@/components";
+import {Footer, NavbarWithMegaMenu} from "@/components";
 import Datenschutz from "@/app/datenschutz/datenschutz";
 
 // sections
@@ -7,7 +7,7 @@ import Datenschutz from "@/app/datenschutz/datenschutz";
 export default function DatenschutzPage() {
     return (
         <div>
-            <Navbar/>
+            <NavbarWithMegaMenu/>
             <Datenschutz/>
             <Footer/>
         </div>

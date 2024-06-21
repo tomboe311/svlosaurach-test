@@ -1,5 +1,5 @@
 // components
-import {Navbar, Footer} from "@/components";
+import {Footer, NavbarWithMegaMenu} from "@/components";
 import Jugend from "@/app/jugend/jugend";
 
 // sections
@@ -7,7 +7,7 @@ import Jugend from "@/app/jugend/jugend";
 export default function JugendPage() {
     return (
         <div>
-            <Navbar/>
+            <NavbarWithMegaMenu/>
             <Jugend/>
             <Footer/>
         </div>

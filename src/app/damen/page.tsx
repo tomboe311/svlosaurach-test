@@ -1,5 +1,5 @@
 // components
-import {Navbar, Footer} from "@/components";
+import {Footer, NavbarWithMegaMenu} from "@/components";
 import Damen from "@/app/damen/damen";
 
 // sections
@@ -7,7 +7,7 @@ import Damen from "@/app/damen/damen";
 export default function DamenPage() {
     return (
         <div>
-            <Navbar/>
+            <NavbarWithMegaMenu/>
             <Damen/>
             <Footer/>
         </div>

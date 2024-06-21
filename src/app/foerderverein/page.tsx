@@ -1,5 +1,5 @@
 // components
-import {Navbar, Footer} from "@/components";
+import {Footer, NavbarWithMegaMenu} from "@/components";
 import Foerderverein from "@/app/foerderverein/foerderverein";
 
 // sections
@@ -7,7 +7,7 @@ import Foerderverein from "@/app/foerderverein/foerderverein";
 export default function FoerdervereinPage() {
     return (
         <div>
-            <Navbar/>
+            <NavbarWithMegaMenu/>
             <Foerderverein/>
             <Footer/>
         </div>

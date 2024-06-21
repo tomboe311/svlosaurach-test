@@ -1,5 +1,5 @@
 // components
-import {Navbar, Footer} from "@/components";
+import {Footer, NavbarWithMegaMenu} from "@/components";
 import Impressum from "@/app/impressum/impressum";
 
 // sections
@@ -7,7 +7,7 @@ import Impressum from "@/app/impressum/impressum";
 export default function ImpressumPage() {
     return (
         <div>
-            <Navbar/>
+            <NavbarWithMegaMenu/>
             <Impressum/>
             <Footer/>
         </div>
