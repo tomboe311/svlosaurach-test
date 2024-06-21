@@ -12,7 +12,7 @@ export function SectionCard({iconFontName, title, children}: SectionCardProps) {
         <Card color="transparent" shadow={false}>
             <CardBody className="grid justify-center text-center">
                 <div
-                    className="mx-auto mb-6 grid h-12 w-12 place-items-center rounded-full bg-gray-900 p-2.5 text-white shadow">
+                    className="mx-auto mb-6 grid h-12 w-12 place-items-center rounded-full bg-yellow-500 p-2.5 text-gray-900 shadow">
                     <i className={`fa-solid ${iconFontName} text-lg`}/>
                 </div>
                 <Typography variant="h5" color="blue-gray" className="mb-2">

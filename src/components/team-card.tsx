@@ -39,7 +39,7 @@ export function TeamCard({img, title, desc, link}: TeamCardProps) {
                     {desc}
                 </Typography>
                 <a href={link}>
-                    <Button color="gray" size="sm">
+                    <Button color="yellow" size="sm">
                         Mehr über
                     </Button>
                 </a>

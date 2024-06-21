@@ -26,7 +26,7 @@ function Hero() {
                         <div className="mb-2 flex w-full flex-col gap-4 md:w-10/12 md:flex-row">
                             {/* @ts-ignore */}
                             <a href="/verein">
-                                <Button color="gray" className="w-full px-4 md:w-[12rem]">
+                                <Button color="yellow" className="w-full px-4 md:w-[12rem]">
                                     Erfahre mehr
                                 </Button>
                             </a>
