@@ -30,23 +30,37 @@ const TRAINER = [
     {
         img: "/teams/herren-2022.jpeg",
         name: "Henric Raab",
-        section: "Co-Trainer 2. Herrenmannschaft",
+        section: "Trainerassistent/Betreuer",
         mail: "",
         phone: "+49 (0) 174 9175951",
     },
     {
         img: "/teams/herren-2022.jpeg",
         name: "Christian König",
-        section: "Spielleiter 2. Herrenmannschaft",
+        section: "Trainerassistent/Betreuer",
         mail: "",
         phone: "+49 (0) 178 2873224",
     },
     {
         img: "/teams/herren-2022.jpeg",
-        name: "Christian König",
-        section: "Physiotherapeut Herren",
+        name: "Norbert Scheuenstuhl",
+        section: "Torwarttrainer Herrenmannschaften",
         mail: "",
-        phone: "",
+        phone: "+49 (0) 160 5846098",
+    },
+    {
+        img: "/teams/herren-2022.jpeg",
+        name: "Jonas Ruppe",
+        section: "Medizinische Betreuung",
+        mail: "",
+        phone: "+49 (0) 1512 9121998",
+    },
+    {
+        img: "/teams/herren-2022.jpeg",
+        name: "Rene Hofmockel",
+        section: "Fotograf",
+        mail: "",
+        phone: "+49 (0) 176 61042669",
     },
 ]
 

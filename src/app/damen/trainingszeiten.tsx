@@ -5,13 +5,13 @@ const TABLE_HEAD = ["Team", "Dienstag", "Donnerstag"];
 const TABLE_ROWS = [
     {
         team: "Damen 1",
-        dienstag: "19:00 - 20:30 Uhr",
-        donnerstag: "19:00 - 20:30 Uhr",
+        dienstag: "19:00 - 20:00 Uhr",
+        donnerstag: "19:00 - 20:00 Uhr",
     },
     {
         team: "Damen 2",
-        dienstag: "19:00 - 20:30 Uhr",
-        donnerstag: "19:00 - 20:30 Uhr",
+        dienstag: "19:00 - 20:00 Uhr",
+        donnerstag: "19:00 - 20:00 Uhr",
     },
 ];
 

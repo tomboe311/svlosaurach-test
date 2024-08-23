@@ -7,25 +7,60 @@ import {PersonCard, ProfileCard} from "@/components";
 
 const TRAINER = [
     {
-        img: "/teams/damen-2023-2024.jpeg",
-        name: "Heiko Gräbner",
+        img: "/teams/damen-1-2024-2025.jpeg",
+        name: "Christian Popp",
         section: "Trainer 1. Damenmannschaft",
-        mail: "heiko.graebner@sparkasse-nea.de",
-        phone: "+49 (0) 172 8621772",
+        mail: "",
+        phone: "+49 (0) 1520 8726937",
     },
     {
-        img: "/teams/damen-2023-2024.jpeg",
+        img: "/teams/damen-2-2024-2025.jpeg",
         name: "Franziska Clemens",
-        section: "Trainer 2. Damenmannschaft",
+        section: "Trainerin 2. Damenmannschaft",
         mail: "",
         phone: "+49 (0) 1525 6158385",
     },
     {
-        img: "/teams/damen-2023-2024.jpeg",
+        img: "/teams/damen-2-2024-2025.jpeg",
+        name: "Manfred Meyer",
+        section: "Trainerassistent 2. Damenmannschaft",
+        mail: "",
+        phone: "+49 (0) 175 1655724",
+    },
+    {
+        img: "/teams/damen-2-2024-2025.jpeg",
+        name: "Kevin Pförtsch",
+        section: "Trainerassistent 2. Damenmannschaft",
+        mail: "",
+        phone: "+49 (0) 170 484412",
+    },
+    {
+        img: "/teams/damen-2-2024-2025.jpeg",
+        name: "Pascal Isele",
+        section: "Trainerassistent 2. Damenmannschaft",
+        mail: "",
+        phone: "+49 (0) 172 8812107",
+    },
+    {
+        img: "/teams/damen-2-2024-2025.jpeg",
         name: "Susi Strohmaier",
-        section: "Spielleiter Damen",
+        section: "Spielleiterin Damen",
         mail: "",
         phone: "+49 (0) 170 7688000",
+    },
+    {
+        img: "/teams/damen-2-2024-2025.jpeg",
+        name: "Stefan Meier",
+        section: "Torwarttrainer",
+        mail: "",
+        phone: "+49 (0) 1511 7684369",
+    },
+    {
+        img: "/teams/damen-2-2024-2025.jpeg",
+        name: "Nick Salzer",
+        section: "Torwarttrainer",
+        mail: "",
+        phone: "+49 (0) 1520 4685778",
     },
 ]
 

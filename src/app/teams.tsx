@@ -11,7 +11,7 @@ const TEAMS = [
         link: "/herren",
     },
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "/teams/damen-2-2024-2025.jpeg",
         title: "1. & 2. Damenmannschaft",
         desc: "Damenmannschaften",
         link: "/damen",

@@ -18,7 +18,7 @@ const TRAINER = [
         name: "Helmut Hofmockel",
         section: "Spielleiter Alte Herren",
         mail: "",
-        phone: "",
+        phone: "+49 (0) 172 8563666",
     },
 ]
 
