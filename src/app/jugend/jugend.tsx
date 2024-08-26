@@ -38,29 +38,6 @@ const TRAINER = {
             phone: "+49 (0) 172 8621772",
         }
     ],
-    "U17 B-Juniorinnen": [
-        {
-            team: "B-Juniorinnen",
-            name: "Jochen Schirmer",
-            section: "Trainer",
-            mail: "",
-            phone: "+49 (0) 1511 4072581",
-        },
-        {
-            team: "B-Juniorinnen",
-            name: "Christina Schirmer",
-            section: "Trainerin",
-            mail: "",
-            phone: "+49 (0) 173 3592401",
-        },
-        {
-            team: "B-Juniorinnen",
-            name: "Lea Stefani",
-            section: "Trainerin",
-            mail: "",
-            phone: "+49 (0) 162 9433129",
-        }
-    ],
     "U15 (SG) C1-Jugend": [
         {
             team: "(SG) C1-Jugend",
@@ -169,29 +146,6 @@ const TRAINER = {
             phone: "+49 (0) 160 2761444",
         },
     ],
-    "U1 E-Juniorinnen": [
-        {
-            team: "E-Juniorinnen",
-            name: "Markus Sandmann",
-            section: "Trainer",
-            mail: "",
-            phone: "+49 (0) 1575 6026348",
-        },
-        {
-            team: "E-Juniorinnen",
-            name: "Heiko Schemm",
-            section: "Trainer",
-            mail: "",
-            phone: "+49 (0) 1522 2675391",
-        },
-        {
-            team: "E-Juniorinnen",
-            name: "Kerstin Heinlein",
-            section: "Trainer",
-            mail: "",
-            phone: "+49 (0) 179 3264196",
-        }
-    ],
     "U9 F-Jugend": [
         {
             team: "F-Jugend",
@@ -272,6 +226,52 @@ const TRAINER = {
             mail: "",
             phone: "+49 (0) 162 2894436",
         },
+    ],
+    "U17 B-Juniorinnen": [
+        {
+            team: "B-Juniorinnen",
+            name: "Jochen Schirmer",
+            section: "Trainer",
+            mail: "",
+            phone: "+49 (0) 1511 4072581",
+        },
+        {
+            team: "B-Juniorinnen",
+            name: "Christina Schirmer",
+            section: "Trainerin",
+            mail: "",
+            phone: "+49 (0) 173 3592401",
+        },
+        {
+            team: "B-Juniorinnen",
+            name: "Lea Stefani",
+            section: "Trainerin",
+            mail: "",
+            phone: "+49 (0) 162 9433129",
+        }
+    ],
+    "U11 E-Juniorinnen": [
+        {
+            team: "E-Juniorinnen",
+            name: "Markus Sandmann",
+            section: "Trainer",
+            mail: "",
+            phone: "+49 (0) 1575 6026348",
+        },
+        {
+            team: "E-Juniorinnen",
+            name: "Heiko Schemm",
+            section: "Trainer",
+            mail: "",
+            phone: "+49 (0) 1522 2675391",
+        },
+        {
+            team: "E-Juniorinnen",
+            name: "Kerstin Heinlein",
+            section: "Trainer",
+            mail: "",
+            phone: "+49 (0) 179 3264196",
+        }
     ],
 }
 
