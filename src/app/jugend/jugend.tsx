@@ -9,17 +9,10 @@ const TRAINER = {
     "U19 (SG) A-Jugend": [
         {
             team: "(SG) A-Jugend",
-            name: "Armin Krauß",
+            name: "Oliver Cesinger",
             section: "Trainer",
             mail: "",
-            phone: "+49 (0) 01514 6358762",
-        },
-        {
-            team: "(SG) A-Jugend",
-            name: "Sadik Alkac",
-            section: "Trainer",
-            mail: "",
-            phone: "+49 (0) 176 32477259",
+            phone: "+49 (0) 172 8109136",
         }
     ],
     "U17 (SG) B-Jugend": [
@@ -79,22 +72,6 @@ const TRAINER = {
     ],
     "U13 (SG) D1-Jugend": [
         {
-            team: "(SG) D1-Jugend",
-            name: "Jürgen Raab",
-            section: "Trainer",
-            mail: "",
-            phone: "+49 (0) 171 8868443",
-        },
-        {
-            team: "(SG) D1-Jugend",
-            name: "Stefan Köhler",
-            section: "Trainer",
-            mail: "",
-            phone: "+49 (0) 176 45500055",
-        },
-    ],
-    "U13 (SG) D2-Jugend": [
-        {
             team: "(SG) D2-Jugend",
             name: "Max Geißendörfer",
             section: "Trainer",
@@ -107,6 +84,22 @@ const TRAINER = {
             section: "Trainer",
             mail: "",
             phone: "+49 (0) 175 2021964",
+        }
+    ],
+    "U13 (SG) D2-Jugend": [
+        {
+            team: "(SG) D1-Jugend",
+            name: "Jürgen Raab",
+            section: "Trainer",
+            mail: "",
+            phone: "+49 (0) 171 8868443",
+        },
+        {
+            team: "(SG) D1-Jugend",
+            name: "Stefan Köhler",
+            section: "Trainer",
+            mail: "",
+            phone: "+49 (0) 176 45500055",
         },
         {
             team: "(SG) D2-Jugend",
