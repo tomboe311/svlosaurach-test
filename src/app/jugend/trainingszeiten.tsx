@@ -1,6 +1,6 @@
 import {Card, Typography} from "@material-tailwind/react";
 
-const TABLE_HEAD = ["Team", "Montag", "Dienstag", "Mitwoch", "Donnerstag", "Freitag"];
+const TABLE_HEAD = ["Team", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag"];
 
 const TABLE_ROWS = [
     {

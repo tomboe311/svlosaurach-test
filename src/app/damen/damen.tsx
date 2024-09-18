@@ -43,14 +43,14 @@ const TRAINER = [
     },
     {
         img: "/teams/damen-2-2024-2025.jpeg",
-        name: "Susi Strohmaier",
+        name: "Susanne Strohmaier",
         section: "Spielleiterin Damen",
         mail: "",
         phone: "+49 (0) 170 7688000",
     },
     {
         img: "/teams/damen-2-2024-2025.jpeg",
-        name: "Stefan Meier",
+        name: "Stefan Maier",
         section: "Torwarttrainer",
         mail: "",
         phone: "+49 (0) 1511 7684369",
