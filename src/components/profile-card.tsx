@@ -30,17 +30,19 @@ export function ProfileCard({img, name, section, mail, phone}: ProfileCardProps)
                 </Typography>
             </CardBody>
             <CardFooter className="flex justify-center gap-7 pt-2">
-                <Tooltip content="Mail">
-                    <Typography
-                        as="a"
-                        href={`mailto:${mail}`}
-                        variant="lead"
-                        color="yellow"
-                        textGradient
-                    >
-                        <i className="fas fa-envelope" aria-hidden="true"/>
-                    </Typography>
-                </Tooltip>
+               {mail && (
+                    <Tooltip content="Mail">
+                        <Typography
+                            as="a"
+                            href={`mailto:${mail}`}
+                            variant="lead"
+                            color="yellow"
+                            textGradient
+                        >
+                            <i className="fas fa-envelope" aria-hidden="true"/>
+                        </Typography>
+                    </Tooltip>
+                )}
                 <Tooltip content="Telefonnummer">
                     <Typography
                         as="a"
