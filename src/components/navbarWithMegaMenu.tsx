@@ -40,6 +40,12 @@ const navListMenuItems = [
         description: "Unser Jugendbereich",
         icon: UserGroupIcon,
     },
+    {
+        title: 'Alte Herren',
+        href: '/alte-herren',
+        description: 'Unsere Traditionsmannschaft',
+        icon: UserGroupIcon,
+    }
 ];
 
 function NavListMenu() {
