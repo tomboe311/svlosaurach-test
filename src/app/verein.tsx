@@ -23,7 +23,7 @@ const VEREIN_ITEMS = [
     },
     {
         icon: UserGroupIcon,
-        children: "750 Mitglieder",
+        children: "650 Mitglieder",
     },
     {
         icon: FireIcon,
@@ -31,7 +31,7 @@ const VEREIN_ITEMS = [
     },
     {
         icon: GlobeAltIcon,
-        children: "17 Fußballteams",
+        children: "16 Fußballteams",
     }
 ];
 
