@@ -5,7 +5,7 @@ const TABLE_HEAD = ["Team", "Mittwoch"];
 const TABLE_ROWS = [
     {
         team: "Alte Herren",
-        mittwoch: "19:00 - 20:00 Uhr",
+        mittwoch: "19:00 - 20:30 Uhr",
     },
 ];
 
