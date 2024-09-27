@@ -77,9 +77,11 @@ function Damen() {
                     Damenmannschaften
                 </Typography>
                 <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                    Unsere Damenmannschaften sind ein wichtiger Bestandteil des Sportvereins Losaurach. Mit insgesamt 2
-                    Damenmannschaften bieten wir ein breites Spektrum an Möglichkeiten für alle Altersgruppen, um aktiv
-                    zu werden und sich sportlich zu entfalten.
+                    Die Damenmannschaften sind seit vielen Jahren ein fester Bestandteil des SV Losaurach.
+                    Der Verein stellt zwei Teams im aktiven Ligabetrieb. Die 1. Damenmannschaft tritt eigenständig für
+                    den SV Losaurach an, während die 2. Damenmannschaft als Spielgemeinschaft mit dem TSV Wilhermsdorf
+                    agiert. Auf diese Weise wird Frauen ab 16 Jahren ein breites Spektrum an Möglichkeiten geboten, sich
+                    sportlich zu engagieren und weiterzuentwickeln.
                 </Typography>
             </div>
             <div className="container mx-auto">
