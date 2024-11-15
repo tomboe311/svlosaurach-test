@@ -178,7 +178,7 @@ function NavList() {
             </Typography>
             <Typography
                 as="a"
-                href="https://www.sv-losaurach.de/fanshop/"
+                href="https://www.fabes-creates.de/c/fanshop/shops/sv-losaurach"
                 variant="paragraph"
                 color="blue-gray"
                 className="font-medium"
