@@ -17,8 +17,8 @@ const sourceSans3 = Source_Sans_3({
 });
 
 export const metadata: Metadata = {
-    title: "SV Losaurach und Umgebung e. V. | Fußball, Schützen, Darts, Seifenkiste",
-    description: "Ihr Sportverein in Losaurach: SV Losaurach e. V. – Fußball, Schützensport, Darts, Seifenkiste. Jetzt Mitglied werden und sportliche Vielfalt erleben!",
+    title: "Sportverein Losaurach e. V. | Fußball, Schützen, Darts, Seifenkiste",
+    description: "Ihr Sportverein in Losaurach: Sportverein Losaurach e. V. – Fußball, Schützensport, Darts, Seifenkiste. Jetzt Mitglied werden und sportliche Vielfalt erleben!",
 };
 
 export default function RootLayout({
@@ -42,6 +42,7 @@ export default function RootLayout({
                 referrerPolicy="no-referrer"
             />
             <link rel="shortcut icon" href="/favicon.png" type="image/png"/>
+            <title>Sportverein Losaurach e. V.</title>
         </head>
         <body className={sourceSans3.className}>
         <Layout>
