@@ -3,7 +3,7 @@
 import React from "react";
 import {Typography} from "@material-tailwind/react";
 import {Trainingszeiten} from "@/app/damen/trainingszeiten";
-import {PersonCard, ProfileCard} from "@/components";
+import {ProfileCard} from "@/components";
 
 const TRAINER = [
     {
