@@ -19,7 +19,7 @@ export function ProfileCard({img, name, section, mail, phone}: ProfileCardProps)
     return (
         <Card className="w-96">
             <CardHeader floated={false} className="h-auto">
-                <img src={img} alt="profile-picture"/>
+                {img &&( <img src={img} alt="profile-picture" />)}
             </CardHeader>
             <CardBody className="text-center">
                 <Typography variant="h4" color="blue-gray" className="mb-2">
