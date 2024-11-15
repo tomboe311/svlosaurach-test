@@ -46,7 +46,7 @@ const NAV_MENU = [
     },
     {
         name: "Fanshop",
-        href: "https://www.sv-losaurach.de/fanshop/"
+        href: "https://www.fabes-creates.de/c/fanshop/shops/sv-losaurach"
     }
 ];
 
