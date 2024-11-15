@@ -14,7 +14,7 @@ function Hero() {
                         color="blue-gray"
                         className="mb-4 lg:text-5xl !leading-tight text-3xl"
                     >
-                        SV Losaurach
+                        Sportverein Losaurach e.V.
                     </Typography>
                     <Typography
                         variant="lead"

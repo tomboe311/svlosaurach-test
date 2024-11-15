@@ -38,7 +38,7 @@ export function Teams() {
                     Unsere
                 </Typography>
                 <Typography variant="h2" color="blue-gray" className="mb-4 uppercase">
-                    Mannschaften
+                    Fußball Mannschaften
                 </Typography>
                 <Typography
                     variant="lead"

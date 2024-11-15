@@ -16,8 +16,8 @@ export default function Home() {
             <Hero/>
             <Verein/>
             <Teams/>
-            <Sponsors/>
             <Sections/>
+            <Sponsors/>
             <Address/>
             <Footer/>
         </>
