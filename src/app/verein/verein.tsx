@@ -212,7 +212,7 @@ function Verein() {
                         Schützen
                     </Typography>
                     <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                        Die Schützenabteilung des SVL ist eine der ältesten Abteilungen des Vereins.
+                        Der Schützenbund ist die älteste Abteilung des SVL und besteht seit über 60 Jahren.
                     </Typography>
                     <Typography variant="h5" color="blue-gray" className="mb-4 uppercase">
                         Schützenmeister
@@ -227,7 +227,7 @@ function Verein() {
                         Dart
                     </Typography>
                     <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                        Die Dartabteilung des SVL ist eine der jüngsten Abteilungen des Vereins.
+                        Der SVL geht seit 2023 mit der Dartmannschaft „Los Dartos“ ans Board.
                     </Typography>
                     <Typography variant="h5" color="blue-gray" className="mb-4 uppercase">
                         Abteilungsleiter
@@ -242,7 +242,7 @@ function Verein() {
                         Seifenkisten
                     </Typography>
                     <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                        Die Seifenkistenabteilung des SVL ist eine der neuesten Abteilungen des Vereins.
+                        Die Seifenkiste ist mit Welt- & Europaschaftserfolgen die erfolgreichste Abteilung des SVL.
                     </Typography>
                     <Typography variant="h5" color="blue-gray" className="mb-4 uppercase">
                         Abteilungsleiter
