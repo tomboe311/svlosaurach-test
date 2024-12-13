@@ -3,6 +3,7 @@
 import React from "react";
 import {Button, Typography} from "@material-tailwind/react";
 import {ProfileCard} from "@/components";
+import Link from "next/link";
 
 const VORSTANDSCHAFT = [
     {
@@ -79,7 +80,7 @@ function Foerderverein() {
 
                     Die Aufgabe des Fördervereins ist die Durchführung diverser  Veranstaltungen, sowie die Verwaltung der Bandenwerbung am A-Platz, was dem Erhalt der Sportanlage und dem Spielbetrieb der Mannschaften des SV Losaurach und Umg. e.V. zur Unterstützung dienen soll.
 
-                    Aktuell sind 59 Mitglieder im Förderverein Oberer Aurachgrund, bei denen wir uns für Ihre Unterstützung recht herzlich bedanken möchten.
+                    Aktuell sind 110 Mitglieder im Förderverein Oberer Aurachgrund, bei denen wir uns für Ihre Unterstützung recht herzlich bedanken möchten.
                 </Typography>
                 <Typography variant="h2" color="blue-gray" className="mb-4 uppercase">
                     Mitglied werden
@@ -89,9 +90,12 @@ function Foerderverein() {
 
                     Der momentane Jahresbeitrag beträgt: 30,00 €
                 </Typography>
-                <Button color="yellow" className="mb-4">
-                    Mitgliedsantrag
-                </Button>
+                <Link href="/assets/uploads/Foerderverein-Beitrittserklaerung-ab-01-2015.pdf">
+                    <Button color="yellow" className="mb-4">
+                        Mitgliedsantrag
+                    </Button>
+                </Link>
+
             </div>
             <div className="container mx-auto">
                 <Typography variant="h2" color="blue-gray" className="mb-4 uppercase">
