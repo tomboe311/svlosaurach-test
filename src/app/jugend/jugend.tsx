@@ -1,9 +1,8 @@
 "use client";
 
 import React from "react";
-import {Tooltip, Typography} from "@material-tailwind/react";
+import {Typography} from "@material-tailwind/react";
 import {Trainingszeiten} from "@/app/jugend/trainingszeiten";
-import {ProfileCard} from "@/components";
 
 const TRAINER = {
     "U19 (SG) A-Jugend": [
@@ -297,7 +296,7 @@ function Jugend() {
                                 {key}
                             </Typography>
                             <div className="grid grid-cols-1 gap-10">
-                                {value.map((props, idx) => (
+                                {value.map((props) => (
                                     <div>
                                         <Typography variant="paragraph" color="blue-gray">
                                             {props.name}
