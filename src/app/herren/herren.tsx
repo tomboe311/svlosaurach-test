@@ -10,7 +10,7 @@ const TRAINER = [
         img: "/teams/herren-2022.jpeg",
         name: "Jonas Scheuenstuhl",
         section: "Trainer 1. Herrenmannschaft",
-        mail: "scheu.j@hotmail.de",
+        mail: "",
         phone: "+49 (0) 151 18054220",
     },
     {
@@ -77,9 +77,9 @@ function Herren() {
                     Herrenmannschaften
                 </Typography>
                 <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                    Unsere Herrenmannschaften sind ein wichtiger Bestandteil des Sportvereins Losaurach. Mit insgesamt 2
-                    Herrenmannschaften bieten wir ein breites Spektrum an Möglichkeiten für alle Altersgruppen, um aktiv
-                    zu werden und sich sportlich zu entfalten.
+                    Unsere zwei eigenständigen Herrenmannschaften sind eines der Aushängeschilder des Vereins.
+                    Auf diese Weise bieten wir unserer Jugend eine langfristige Perspektive und die Möglichkeit, sich auch
+                    im Erwachsenenalter sportlich zu betätigen und weiterzuentwickeln.
                 </Typography>
             </div>
             <div className="container mx-auto">
