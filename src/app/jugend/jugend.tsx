@@ -200,7 +200,7 @@ const TRAINER = {
         },
         {
             team: "G-Jugend",
-            name: "Ane@ Stefani-Kato",
+            name: "Anett Stefani-Kato",
             section: "Trainerin",
             mail: "",
             phone: "+49 (0) 173 7687882",
