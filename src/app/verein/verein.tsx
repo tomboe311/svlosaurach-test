@@ -1,8 +1,9 @@
 "use client";
 
 import React from "react";
-import {Typography} from "@material-tailwind/react";
+import {Button, Typography} from "@material-tailwind/react";
 import {ProfileCard} from "@/components";
+import Link from "next/link";
 
 const VORSTANDSCHAFT = [
     {
@@ -173,9 +174,17 @@ function Verein() {
                     Verein
                 </Typography>
                 <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
+                    Der SV Losaurach wurde 1972 gegründet und entwickelte sich von zwei Fußballmannschaften zu einem vielseitigen Sportverein mit aktuell über 650 Mitgliedern – mehr als das Vierfache der Einwohnerzahl. Neben Fußball kamen im Laufe der Jahre Tennis, Schützen, Seifenkiste und Dart als Abteilungen hinzu. Große Meilensteine waren der Bau des Sportheims, die Gründung einer Frauenmannschaft sowie die erfolgreiche Spielgemeinschaft im Jugendfußball. Trotz Herausforderungen, wie dem gesellschaftlichen Wandel und der Pandemie, wächst der Verein stetig weiter und bleibt ein fester Bestandteil des regionalen Sportlebens.
+                </Typography>
+                <Typography variant="small" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
                     Unsre Heimat ist das Sportheim, unser Stolz der SVL!
                     #TraditionSeitNeunzehnhundertzweiundsiebzig
                 </Typography>
+                <Link href="/assets/uploads/SVL-Beitrittserklaerung-ab-03-2024.pdf">
+                    <Button color="yellow" className="mb-4">
+                        Mitgliedsantrag
+                    </Button>
+                </Link>
             </div>
             <div className="container mx-auto">
                 <Typography variant="h2" color="blue-gray" className="mb-4 uppercase">
