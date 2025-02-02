@@ -7,14 +7,14 @@ import {ProfileCard} from "@/components";
 
 const TRAINER = [
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Markus Thomas",
         section: "Trainer Alte Herren",
         mail: "",
         phone: "+49 (0) 1522 7005954",
     },
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Helmut Hofmockel",
         section: "Spielleiter Alte Herren",
         mail: "",

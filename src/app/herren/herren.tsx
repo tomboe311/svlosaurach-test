@@ -7,56 +7,56 @@ import {ProfileCard} from "@/components";
 
 const TRAINER = [
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Jonas Scheuenstuhl",
         section: "Trainer 1. Herrenmannschaft",
         mail: "",
         phone: "+49 (0) 151 18054220",
     },
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Niklas Stahringer",
         section: "Spielleiter 1. Herrenmannschaft",
         mail: "",
         phone: "+49 (0) 178 2873224",
     },
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Marco Weber",
         section: "Trainer 2. Herrenmannschaft",
         mail: "",
         phone: "+49 (0) 151 18054220",
     },
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Henric Raab",
         section: "Trainerassistent/Betreuer",
         mail: "",
         phone: "+49 (0) 174 9175951",
     },
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Christian König",
         section: "Trainerassistent/Betreuer",
         mail: "",
         phone: "+49 (0) 178 2873224",
     },
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Norbert Scheuenstuhl",
         section: "Torwarttrainer Herrenmannschaften",
         mail: "",
         phone: "+49 (0) 160 5846098",
     },
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Jonas Ruppe",
         section: "Medizinische Betreuung",
         mail: "",
         phone: "+49 (0) 1512 9121998",
     },
     {
-        img: "/teams/herren-2022.jpeg",
+        img: "",
         name: "Rene Hofmockel",
         section: "Fotograf",
         mail: "",
@@ -81,6 +81,11 @@ function Herren() {
                     Auf diese Weise bieten wir unserer Jugend eine langfristige Perspektive und die Möglichkeit, sich auch
                     im Erwachsenenalter sportlich zu betätigen und weiterzuentwickeln.
                 </Typography>
+                <img
+                    className="min-h-full w-full rounded-lg object-cover object-center"
+                    src="/teams/herren-2022.jpeg"
+                    alt="Damenmannschaft"
+                />
             </div>
             <div className="container mx-auto">
                 <Typography variant="h2" color="blue-gray" className="mb-4 uppercase">

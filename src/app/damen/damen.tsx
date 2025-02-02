@@ -7,56 +7,56 @@ import {ProfileCard} from "@/components";
 
 const TRAINER = [
     {
-        img: "/teams/damen-1-2024-2025.jpeg",
+        img: "",
         name: "Christian Popp",
         section: "Trainer 1. Damenmannschaft",
         mail: "",
         phone: "+49 (0) 1520 8726937",
     },
     {
-        img: "/teams/damen-2-2024-2025.jpeg",
+        img: "",
         name: "Franziska Clemens",
         section: "Trainerin 2. Damenmannschaft",
         mail: "",
         phone: "+49 (0) 1525 6158385",
     },
     {
-        img: "/teams/damen-2-2024-2025.jpeg",
+        img: "",
         name: "Manfred Meyer",
         section: "Trainerassistent 2. Damenmannschaft",
         mail: "",
         phone: "+49 (0) 175 1655724",
     },
     {
-        img: "/teams/damen-2-2024-2025.jpeg",
+        img: "",
         name: "Kevin Pförtsch",
         section: "Trainerassistent 2. Damenmannschaft",
         mail: "",
         phone: "+49 (0) 170 484412",
     },
     {
-        img: "/teams/damen-2-2024-2025.jpeg",
+        img: "",
         name: "Pascal Isele",
         section: "Trainerassistent 2. Damenmannschaft",
         mail: "",
         phone: "+49 (0) 172 8812107",
     },
     {
-        img: "/teams/damen-2-2024-2025.jpeg",
+        img: "",
         name: "Susanne Strohmaier",
         section: "Spielleiterin Damen",
         mail: "",
         phone: "+49 (0) 170 7688000",
     },
     {
-        img: "/teams/damen-2-2024-2025.jpeg",
+        img: "",
         name: "Stefan Maier",
         section: "Torwarttrainer",
         mail: "",
         phone: "+49 (0) 1511 7684369",
     },
     {
-        img: "/teams/damen-2-2024-2025.jpeg",
+        img: "",
         name: "Nick Salzer",
         section: "Torwarttrainer",
         mail: "",
@@ -83,6 +83,11 @@ function Damen() {
                     agiert. Auf diese Weise wird Frauen ab 16 Jahren ein breites Spektrum an Möglichkeiten geboten, sich
                     sportlich zu engagieren und weiterzuentwickeln.
                 </Typography>
+                <img
+                    className="min-h-full w-full rounded-lg object-cover object-center"
+                    src="/teams/damen-1-2024-2025.jpeg"
+                    alt="Damenmannschaft"
+                />
             </div>
             <div className="container mx-auto">
                 <Typography variant="h2" color="blue-gray" className="mb-4 uppercase">
