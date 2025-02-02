@@ -8,7 +8,7 @@ interface SectionCardProps {
 
 export function SectionCard({iconFontName, title}: SectionCardProps) {
     return (
-        <Card color="transparent" shadow={false}>
+        <Card color="transparent" shadow={true} className="bg-yellow-500">
             <CardBody className="grid justify-center text-center">
                 <div
                     className="mx-auto mb-6 grid h-12 w-12 place-items-center rounded-full bg-yellow-500 p-2.5 text-gray-900 shadow">

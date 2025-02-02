@@ -46,7 +46,7 @@ export function Verein() {
                     <Carousel className="rounded-xl mb-4">
                         <div className="relative h-full w-full">
                             <img
-                                src="/image/carousel.jpeg"
+                                src="/images/carousel.jpeg"
                                 alt="SVL Losaurach Teamkreis"
                                 className="h-full w-full object-cover"
                             />
@@ -72,7 +72,7 @@ export function Verein() {
                         </div>
                         <div className="relative h-full w-full">
                             <img
-                                src="/image/carousel.jpeg"
+                                src="/images/carousel.jpeg"
                                 alt="SVL Losaurach Teamkreis"
                                 className="h-full w-full object-cover"
                             />
@@ -98,7 +98,7 @@ export function Verein() {
                         </div>
                         <div className="relative h-full w-full">
                             <img
-                                src="/image/carousel.jpeg"
+                                src="/images/carousel.jpeg"
                                 alt="SVL Losaurach Teamkreis"
                                 className="h-full w-full object-cover"
                             />
@@ -124,7 +124,7 @@ export function Verein() {
                         </div>
                         <div className="relative h-full w-full">
                             <img
-                                src="/image/carousel.jpeg"
+                                src="/images/carousel.jpeg"
                                 alt="SVL Losaurach Teamkreis"
                                 className="h-full w-full object-cover"
                             />
@@ -149,7 +149,7 @@ export function Verein() {
                         </div>
                         <div className="relative h-full w-full">
                             <img
-                                src="/image/carousel.jpeg"
+                                src="/images/carousel.jpeg"
                                 alt="SVL Losaurach Teamkreis"
                                 className="h-full w-full object-cover"
                             />
@@ -175,7 +175,7 @@ export function Verein() {
                         </div>
                         <div className="relative h-full w-full">
                             <img
-                                src="/image/carousel.jpeg"
+                                src="/images/carousel.jpeg"
                                 alt="SVL Losaurach Teamkreis"
                                 className="h-full w-full object-cover"
                             />
@@ -201,7 +201,7 @@ export function Verein() {
                         </div>
                         <div className="relative h-full w-full">
                             <img
-                                src="/image/carousel.jpeg"
+                                src="/images/carousel.jpeg"
                                 alt="SVL Losaurach Teamkreis"
                                 className="h-full w-full object-cover"
                             />

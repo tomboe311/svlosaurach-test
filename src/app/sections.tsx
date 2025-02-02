@@ -24,7 +24,7 @@ const SECTIONS = [
 
 export function Sections() {
     return (
-        <section className="px-8">
+        <section className="px-8 bg-gray-100 shadow-sm py-8">
             <div className="container mx-auto mb-20 text-center">
                 <Typography color="blue-gray" className="mb-2 font-bold uppercase">
                     Unsere
@@ -42,7 +42,7 @@ export function Sections() {
                     Aktivitäten und lebendiger Gemeinschaft. Willkommen bei uns, wo Abwechslung und Begeisterung zuhause
                     sind! </Typography>
             </div>
-            <div className="container mx-auto grid grid-cols-2 gap-y-10 lg:grid-cols-4">
+            <div className="container mx-auto grid grid-cols-2 gap-x-10 gap-y-10 lg:grid-cols-4">
                 {SECTIONS.map((props, idx) => (
                     <SectionCard key={idx} {...props}/>
                 ))}

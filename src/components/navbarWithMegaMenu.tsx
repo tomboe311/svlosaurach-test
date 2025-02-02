@@ -129,7 +129,7 @@ function NavListMenu() {
 
 function NavList() {
     return (
-        <List className="mt-4 mb-6 p-0 lg:mt-0 lg:mb-0 lg:flex-row lg:p-1">
+        <List className="mt-4 mb-6 p-0 lg:mt-0 lg:mb-0 lg:flex-row lg:p-1 uppercase">
             <Typography
                 as="a"
                 href="/verein"
@@ -178,7 +178,7 @@ function NavList() {
             </Typography>
             <Typography
                 as="a"
-                href="https://www.fabes-creates.de/c/fanshop/shops/sv-losaurach"
+                href="/fanshop"
                 variant="paragraph"
                 color="blue-gray"
                 className="font-medium"
@@ -204,7 +204,7 @@ export function NavbarWithMegaMenu() {
             <div className="container mx-auto flex items-center justify-between text-blue-gray-900">
                 <Link href="/">
                     <div className="flex">
-                        <img src="/image/sv-losaurach-wappen.png" alt="SV Losaurach e. V."
+                        <img src="/images/sv-losaurach-wappen.png" alt="SV Losaurach e. V."
                              className="h-12 self-center"/>&nbsp;
                         <Typography color="blue-gray" className="ps-2 text-lg font-bold self-center">
                             SV Losaurach
