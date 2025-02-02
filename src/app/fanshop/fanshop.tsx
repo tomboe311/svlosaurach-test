@@ -47,15 +47,15 @@ export default function Fanshop() {
                                 <Typography variant="h5" className="mb-4">
                                     {shop.name}
                                 </Typography>
-                                <Button
-                                    color="yellow"
-                                    size="lg"
-                                    href={shop.url}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    Visit Shop
-                                </Button>
+
+                                <Link href={shop.url} target="_blank" rel="noopener noreferrer">
+                                    <Button
+                                        color="yellow"
+                                        size="lg"
+                                    >
+                                        Visit Shop
+                                    </Button>
+                                </Link>
                             </CardBody>
                         </Card>
                     ))}
