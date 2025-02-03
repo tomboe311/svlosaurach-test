@@ -4,14 +4,6 @@ const TABLE_HEAD = ["Team", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Fre
 
 const TABLE_ROWS = [
     {
-        team: "U19/U18 (A-Junioren)",
-        montag: "18:30 - 20:00 Uhr (Sportplatz Losaurach)",
-        dienstag: "",
-        mittwoch: "",
-        donnerstag: "18:30 - 20:00 Uhr (Sportplatz Markt Erlbach)",
-        freitag: "",
-    },
-    {
         team: "U17/U16 (B-Junioren)",
         montag: "18:30 - 20:00 Uhr (Sportplatz Losaurach)",
         dienstag: "",
@@ -21,10 +13,10 @@ const TABLE_ROWS = [
     },
     {
         team: "U15/U14 (C1/C2-Junioren)",
-        montag: "",
-        dienstag: "17:30 - 19:30 Uhr (Sportplatz Markt Erlbach)",
-        mittwoch: "",
-        donnerstag: "17:30 - 19:30 Uhr (Sportplatz Markt Erlbach)",
+        montag: "17:00 - 19:00 Uhr (Sportplatz Markt Erlbach)",
+        dienstag: "",
+        mittwoch: "17:00 - 19:00 Uhr (Sportplatz Markt Erlbach)",
+        donnerstag: "",
         freitag: "",
     },
     {
@@ -36,7 +28,7 @@ const TABLE_ROWS = [
         freitag: "",
     },
     {
-        team: "U11/U10 (E-Junioren)",
+        team: "U11/U10 (E2-Junioren)",
         montag: "",
         dienstag: "17:00 - 18:30 Uhr (Sportplatz Losaurach)",
         mittwoch: "",

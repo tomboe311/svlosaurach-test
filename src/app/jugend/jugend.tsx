@@ -5,15 +5,6 @@ import {Typography} from "@material-tailwind/react";
 import {Trainingszeiten} from "@/app/jugend/trainingszeiten";
 
 const TRAINER = {
-    "U19 (SG) A-Jugend": [
-        {
-            team: "(SG) A-Jugend",
-            name: "Oliver Cesinger",
-            section: "Trainer",
-            mail: "",
-            phone: "+49 (0) 172 8109136",
-        }
-    ],
     "U17 (SG) B-Jugend": [
         {
             team: "(SG) C1-Jugend",
@@ -108,11 +99,11 @@ const TRAINER = {
             phone: "+49 (0) 1590 4832239",
         }
     ],
-    "U11 E-Jugend": [
+    "U11 E1-Jugend": [
         {
             team: "E-Jugend",
             name: "Jochen Datz",
-            section: "",
+            section: "Trainer",
             mail: "",
             phone: "+49 (0) 179 7584825",
         },
@@ -123,6 +114,8 @@ const TRAINER = {
             mail: "",
             phone: "+49 (0) 173 8583978",
         },
+    ],
+    "U11 E2-Jugend": [
         {
             team: "E-Jugend",
             name: "Niklas Engel",
@@ -279,7 +272,7 @@ function Jugend() {
                     Jugendmannschaften
                 </Typography>
                 <Typography variant="lead" className="mb-4 !text-gray-500 md:pr-16 xl:pr-28">
-                    Mit insgesamt elf Jugendmannschaften, davon sechs Mannschaft in einer Spielgemeinschaft mit dem TSV Markt Erlbach,
+                    Mit insgesamt elf Jugendmannschaften, davon fünf Mannschaften in einer Spielgemeinschaft mit dem TSV Markt Erlbach,
                     bilden wir wichtige Basis für die Zukunft unserer Herren- und Damenmannschaften. Ganz besonders stolz sind wir auch
                     auf unsere beiden Mädchenmannschaften der Altersklassen U17 und U11.
                 </Typography>
