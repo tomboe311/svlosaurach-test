@@ -11,7 +11,7 @@ const TRAINER = [
         name: "Sebastian Klein",
         section: "Abteilungsleiter",
         mail: "",
-        phone: "",
+        phone: "+49 173 5701415",
     },
     {
         img: "",

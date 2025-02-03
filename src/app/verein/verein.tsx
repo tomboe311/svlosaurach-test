@@ -141,10 +141,10 @@ const VORSTANDSCHAFT = [
     },
     {
         img: "",
-        name: "Unbesetzt",
+        name: "Sebastian Klein",
         section: "Abteilungsleiter Dart",
         mail: "",
-        phone: "",
+        phone: "+49 173 5701415",
     },
     {
         img: "",
