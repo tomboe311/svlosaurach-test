@@ -53,7 +53,7 @@ export default function Fanshop() {
                                         color="yellow"
                                         size="lg"
                                     >
-                                        Visit Shop
+                                        Zum Shop
                                     </Button>
                                 </Link>
                             </CardBody>
