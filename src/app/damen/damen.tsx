@@ -22,6 +22,20 @@ const TRAINER = [
     },
     {
         img: "",
+        name: "Stefan Maier",
+        section: "Torwarttrainer",
+        mail: "",
+        phone: "+49 (0) 1511 7684369",
+    },
+    {
+        img: "",
+        name: "Nick Salzer",
+        section: "Torwarttrainer",
+        mail: "",
+        phone: "+49 (0) 1520 4685778",
+    },
+    {
+        img: "",
         name: "Manfred Meyer",
         section: "Trainerassistent 2. Damenmannschaft",
         mail: "",
@@ -47,20 +61,6 @@ const TRAINER = [
         section: "Spielleiterin Damen",
         mail: "",
         phone: "+49 (0) 170 7688000",
-    },
-    {
-        img: "",
-        name: "Stefan Maier",
-        section: "Torwarttrainer",
-        mail: "",
-        phone: "+49 (0) 1511 7684369",
-    },
-    {
-        img: "",
-        name: "Nick Salzer",
-        section: "Torwarttrainer",
-        mail: "",
-        phone: "+49 (0) 1520 4685778",
     },
 ]
 
