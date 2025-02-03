@@ -28,7 +28,7 @@ const TABLE_ROWS = [
         freitag: "",
     },
     {
-        team: "U11/U10 (E2-Junioren)",
+        team: "U11/U10 (E1/E2-Junioren)",
         montag: "",
         dienstag: "17:00 - 18:30 Uhr (Sportplatz Losaurach)",
         mittwoch: "",
