@@ -37,7 +37,7 @@ function Hero() {
                     width={1024}
                     height={1024}
                     alt="team work"
-                    src="/image/50-jahre-svl.jpg"
+                    src="/images/50-jahre-svl.jpg"
                     className="h-[28rem] w-full rounded-xl object-contain"
                 />
             </div>
