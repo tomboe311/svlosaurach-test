@@ -33,6 +33,17 @@ export function Footer() {
                                 </Typography>
                             </li>
                         ))}
+                        <li>
+                            <Typography
+                                as="a"
+                                href="https://www.sunnyportal.com/Templates/PublicPage.aspx?page=0b478a51-a7f0-4697-898e-6dfec83640da"
+                                target="_blank"
+                                variant="small"
+                                className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                                >
+                                Leistung PV-Anlage
+                            </Typography>
+                        </li>
                     </ul>
                 </div>
             </div>
