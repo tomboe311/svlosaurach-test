@@ -43,20 +43,6 @@ const TRAINER = [
     },
     {
         img: "",
-        name: "Kevin Pförtsch",
-        section: "Trainerassistent 2. Damenmannschaft",
-        mail: "",
-        phone: "+49 (0) 170 484412",
-    },
-    {
-        img: "",
-        name: "Pascal Isele",
-        section: "Trainerassistent 2. Damenmannschaft",
-        mail: "",
-        phone: "+49 (0) 172 8812107",
-    },
-    {
-        img: "",
         name: "Susanne Strohmaier",
         section: "Spielleiterin Damen",
         mail: "",
