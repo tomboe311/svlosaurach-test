@@ -84,7 +84,7 @@ function Herren() {
                 <img
                     className="min-h-full w-full rounded-lg object-cover object-center"
                     src="/teams/herren-2022.jpeg"
-                    alt="Damenmannschaft"
+                    alt="Frauenmannschaft"
                 />
             </div>
             <div className="container mx-auto">
